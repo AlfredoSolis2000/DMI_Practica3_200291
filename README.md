@@ -9,8 +9,8 @@
 
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Alfredo Solis Sanchez 
-## 9A
-### Desarrollo de Dispositivos Inteligentes
+## 10A
+### Desarrollo Móvil Integral
 
 
 
@@ -21,9 +21,9 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea 4 Cambio de Pantallas |
-| Descripción  | El cambio de pantallas en Wear OS es una característica clave que permite a los usuarios personalizar su experiencia con los dispositivos WearOs.  |
-|  Fecha de Carga | 24/05/23  |
+| Nombre  |  Practica 3 Primera Aplicación en Flutter |
+| Descripción  | Primera aplicacion en flutter  |
+|  Fecha de Carga | 08/09/23  |
 
 
 &nbsp;
